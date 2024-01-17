@@ -2,14 +2,12 @@
 title: "LLM4PLC: Harnessing Large Language Models for Verifiable Programming of PLCs in Industrial Control Systems"
 collection: publications
 permalink: /publication/LLM4PLC-2023
-excerpt: 'Large Language Models for Programmable Logic Controllers (UNDER REVIEW)'
+excerpt: 'Large Language Models for Programmable Logic Controllers'
 date: 2023-10-01
-venue: 'ICSE'
+venue: 'ICSE2024-SEIP'
 ---
 
 LLM4PLC is an LLM-powered pipeline to automate the design and programming of industrial PLCs in manufacturing plants given only a textual description of the intended operation.A special thanks to the Siemens Research Group for supporting this project. 
-
-As of December 2023, this work is submission at the International Conference on Software Engineering (ICSE).
 
 Abstract
 =====
